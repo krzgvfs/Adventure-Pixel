@@ -1,0 +1,15 @@
+[remap]
+
+importer="ogg_vorbis"
+type="AudioStreamOGGVorbis"
+path="res://.import/powerUp12.ogg-e20d7501df236e664d5537cb6701e54e.oggstr"
+
+[deps]
+
+source_file="res://Assets/Sounds/powerUp12.ogg"
+dest_files=[ "res://.import/powerUp12.ogg-e20d7501df236e664d5537cb6701e54e.oggstr" ]
+
+[params]
+
+loop=true
+loop_offset=0

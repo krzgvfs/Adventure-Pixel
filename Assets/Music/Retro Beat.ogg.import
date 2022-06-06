@@ -1,0 +1,15 @@
+[remap]
+
+importer="ogg_vorbis"
+type="AudioStreamOGGVorbis"
+path="res://.import/Retro Beat.ogg-20fe2aaf5918a77a80e930aec7ea7640.oggstr"
+
+[deps]
+
+source_file="res://Assets/Music/Retro Beat.ogg"
+dest_files=[ "res://.import/Retro Beat.ogg-20fe2aaf5918a77a80e930aec7ea7640.oggstr" ]
+
+[params]
+
+loop=true
+loop_offset=0
