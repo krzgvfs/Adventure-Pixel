@@ -39,14 +39,11 @@ dinâmica de coleta de recursos e obstaculos, os quais serão divididos em difer
 
 # Features
 
-- [ ] Tela Inicial
-- [ ] Tela de Configurações
-- [ ] Tela Game Over
+- [x] Tela Inicial
+- [x] Tela de Configurações
+- [x] Tela Game Over
 - [x] Level 01
-- [ ] Level 02
-- [ ] Level 03
-- [ ] Level 04
-- [ ] Level 05 - Final
+- [x] Level - Final
 - [x] Player
 - [x] Gravidade/Colisões
 - [x] Itens coletáveis
@@ -54,30 +51,15 @@ dinâmica de coleta de recursos e obstaculos, os quais serão divididos em difer
 - [x] Inimigos
 - [x] Dano
 - [x] HUD
-- [ ] Disparos
+- [x] Disparos
 - [x] Plataformas Móveis
 - [x] Plataformas que Cai
-- [ ] Checkpoint
-- [ ] Transição entre os Levels
-- [ ] Blocos
-- [ ] Efeitos sonoros
-- [ ] Armadilhas
-- [ ] Blocos de Interação
-- [ ] Boss
+- [x] Checkpoint
+- [x] Transição entre os Levels
+- [x] Blocos
+- [x] Efeitos sonoros
+- [x] Armadilhas
+- [x] Blocos de Interação
+- [x] Boss
 
 <br>
-
-# Autores
-
-Somos alunos do 4/5 Semestre do curso de Ciência da Computação na universidade Nove de Julho.
-
-# Equeipe de Desenvolvimento
-<p align="center">
-    <a href="#">André</a><br>
-    <a href="#">Amanda</a><br>
-    <a href="#">Gabrielle</a><br>
-    <a href="#">Marcos</a><br>
-</p>
-
-
-
